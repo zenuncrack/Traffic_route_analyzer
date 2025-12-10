@@ -1,0 +1,9 @@
+pulp
+fastapi
+uvicorn
+langchain
+langserve
+pydantic
+dotenv
+sse_starlette
+langchain-groq
